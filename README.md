@@ -45,7 +45,7 @@ Developer and UX designer at **Habari Media** in Cape Town. I design in Figma, t
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorge8017&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&area_color=ff79c6&hide_border=true" alt="Contribution graph" />
+     <img src="https://ghchart.rshah.org/ff79c6/Jorge8017" alt="Contribution graph" />
 </p>
 
 ### 💭 Dev Quote
