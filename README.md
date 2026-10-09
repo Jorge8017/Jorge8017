@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jordanshears.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF79C6&center=true&vCenter=true&width=520&lines=Developer+%26+UX+Designer;React+%E2%80%A2+WordPress+%E2%80%A2+Figma;Building+from+Cape+Town+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=520&lines=Developer+%26+UX+Designer;React+%E2%80%A2+WordPress+%E2%80%A2+Figma;Building+from+Cape+Town+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,20 +38,20 @@ Developer and UX designer at **Habari Media** in Cape Town. I design in Figma, t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jorge8017&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge8017&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jorge8017&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge8017&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-     <img src="https://ghchart.rshah.org/ff79c6/Jorge8017" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/39d353/Jorge8017" alt="Contribution graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random dev quote" />
 </p>
 
 ### 🤝 Connect
