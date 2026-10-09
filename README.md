@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Jordan 👋
+
+Developer and UX designer in Cape Town.
+
+[![Repo Recap](https://recap.jordanshears.com/api/card?u=Jorge8017&theme=dark)](https://recap.jordanshears.com/u/Jorge8017)
 
 <!--
 **Jorge8017/Jorge8017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
